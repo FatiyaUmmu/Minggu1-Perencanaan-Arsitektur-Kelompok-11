@@ -1,4 +1,4 @@
-# Cloud File Sharing System — Kelompok 11
+# Cloud File Sharing System — Kelompok 12
 
 Sistem file sharing berbasis Google Cloud Platform (GCP) yang memungkinkan
 pengguna upload, download, dan berbagi file melalui antarmuka web.
